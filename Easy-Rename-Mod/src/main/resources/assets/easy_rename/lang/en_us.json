@@ -1,0 +1,4 @@
+{
+  "commands.rename.failed.entity": "Not a valid entity",
+  "commands.rename.failed.itemless": "This item can't be renamed"
+}
