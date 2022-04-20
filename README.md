@@ -1,4 +1,4 @@
-# 1.18.2
+# Easy-Rename-Mod-Fabric-1.18.2
 A mod that adds a command (/rename) for renaming items easily.
 
 Adds a command that will let you easily rename items.
