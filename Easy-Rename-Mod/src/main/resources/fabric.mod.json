@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Easy Rename",
-  "description": "A mod for easy renaming item with the /rename command",
+  "description": "A mod for easy renaming items with the /rename command",
   "authors": [
     "LeoCodess"
   ],
